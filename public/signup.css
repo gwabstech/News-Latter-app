@@ -21,17 +21,20 @@ body {
 }
 
 .top {
-  margin-bottom: -1px;
+  margin-bottom: 10px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 
 .mid {
- border-radius: 0;
- margin-bottom: -1;
+  border-radius: 0;
+  margin-bottom: auto;
+  margin-top: auto;
 }
-.but{
-    margin-bottom: 10px;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
+
+.but {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
 }
